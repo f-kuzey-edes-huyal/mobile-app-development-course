@@ -68,7 +68,7 @@ This project is adapted from the Packt repository for the book:
 **How to Build Android Applications with Kotlin, Third Edition**
 
 Chapter reference:
-- **Chapter 4 – Building App Navigation**
+- **Chapter 4 – Building App Navigation** [link](https://github.com/PacktPublishing/How-to-Build-Android-Applications-with-Kotlin-Third-Edition/tree/main/Chapter04?link_from_packtlink=yes)
 - **Exercise04.01**
 
 Packt course GitHub repository:
@@ -78,3 +78,5 @@ Packt course GitHub repository:
 ## Educational Use
 
 This repository was prepared for learning purposes to better understand the structure of simple navigation in Jetpack Compose.
+
+🎥 YouTube Short demo: [Simple Navigation App Demo](https://www.youtube.com/shorts/EdNPGEl73dw)
